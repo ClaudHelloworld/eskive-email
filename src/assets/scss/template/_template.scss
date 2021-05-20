@@ -16,6 +16,14 @@ html,
   border-top: 8px solid #663399;
 }
 
+.no-padding{
+  th{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+
 // Full Width Headers
 .header {
   background: #8a8a8a;
